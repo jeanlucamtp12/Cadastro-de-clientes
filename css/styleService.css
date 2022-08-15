@@ -1,0 +1,37 @@
+body {
+    padding-top: 0vh;
+    background: linear-gradient( #da18e0, #1190c2) no-repeat;
+    margin: 0px;
+    background-color: #082767;
+    background-size: cover;
+    text-align: center;
+    
+}
+
+
+a{
+    line-height: 40px;
+    padding: 7px 10px;
+    margin: 05px;
+    background-color:  #b823ac;
+    color: #FFF;
+    border-radius: 90px;
+    text-decoration: none;
+
+}
+p{
+    color:#ffffff;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+#print {
+    color:#000000;
+}
+
+
+
+
+
+
