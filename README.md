@@ -72,7 +72,7 @@ Após realizar a instalação do XAMPP, é possível executar o programa utiliza
 
 O caminho padrão para o acesso a aplicação é a seguinte URL: <http://localhost/newM/index.php>
 
-Observação: A pasta newM deve ser colocada no seguinte diretório após a instalação do XAMPP: C:\xampp\htdocs
+Observação: A pasta do projeto deve ser colocada no seguinte diretório após a instalação do XAMPP: C:\xampp\htdocs
 
 
 
