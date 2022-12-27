@@ -70,7 +70,7 @@ Esse arquivo possui os dados necessários para realizar a criação do banco/tab
 
 Após realizar a instalação do XAMPP, é possível executar o programa utilizando a IDE escolhida pelo usuário.
 
-O caminho padrão para o acesso a aplicação é a seguinte URL: <http://localhost/newM/index.php>
+O caminho padrão para o acesso a aplicação é a seguinte URL: <http://localhost/nomepasta/index.php>
 
 Observação: A pasta do projeto deve ser colocada no seguinte diretório após a instalação do XAMPP: C:\xampp\htdocs
 
